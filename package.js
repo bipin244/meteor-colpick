@@ -9,6 +9,4 @@ Package.on_use(function (api) {
         "lib/css/colpick.css",
         "lib/js/colpick.js"
     ], "client");
-
-    api.add_files('path-override.css', 'client');
 });
